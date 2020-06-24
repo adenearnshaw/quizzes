@@ -83,12 +83,12 @@ Departed
 Cosplayer  
 
 1. Nyccegirls take care of the planet  
-`NYCCEGIRL`
-Recycling
+`NYCCEGIRL`  
+Recycling  
 
 1. On their way to work  
-`MESCROTUM`
-Commuters
+`MESCROTUM`  
+Commuters  
 
 ## Catchphrase
 
@@ -96,7 +96,7 @@ Commuters
 
 1. Any capital city of any country that is either
 wholly or partly in Europe. We will only accept
-answers that are the offi cial capital city and the
+answers that are the official capital city and the
 country must be a member of the United Nations
 in its own right.
 
@@ -202,7 +202,50 @@ BURB 3
 
 ## Mastermind
 
+1. How are Conquest, War, Famine and Death collectively known?
+    - Four Horseman of The Apocalypse
+
+1. Which Jack Nicholson film was based in a mental hospital?
+    - One Flew Over the Cuckoo's Mest
+
+1. What is the name of the wafer thin confectionery made from chocolate and a stiff paste of saccharose, water, and a small amount of the enzyme invertase?
+    - After Eight
+
+1. Who painted the work Guernica?
+    - Pablo Picasso
+
+1. In which New York borough is JFK Airport?
+    - Queens
+
+1. Which British Prime minister was born at Blenheim Palace?
+    - Winston Churchill
+
+1. Which Awards salute the improvement of the human gene pool by honoring those who accidentally remove themselves from it?
+    - The Darwin Awards
+
+1. Changed his stage name to an unpronounceable symbol also known as the Love Symbol
+    - Prince
+
+1. Kepler’s laws are three rules which can be used to describe what?
+    - The motion of planets around the sun
+
+1. In terms of height, what is the world’s largest dog breed?
+    - Great Dane
+
 ## Family Fortunes
+
+Name something that might be brewing.
+
+|   |   |   |
+|---|---|---|
+|1.|Coffee|37|
+|2.|Beer|28|
+|3.|Tea|17|
+|4.|Trouble|8|
+|5.|A Storm|5|
+|6.|Plot|3|
+
+> Source: https://www.buzzfeed.com/tessafahey/family-feud-typey
 
 ## Only Connect
 
