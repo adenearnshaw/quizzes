@@ -6,7 +6,7 @@ Quiz for 26th June 2020
 
 - Wheel of Fortune (10)
 - Countdown (4)
-- Catchpharase (6)
+- Catchpharase (10)
 - Pointless? (2)
 - Question of Sport (4)
 - Mastermind (10)
@@ -15,7 +15,7 @@ Quiz for 26th June 2020
 - Wipeout (6)
 - Blockbusters (10)
 
-Total (60)
+Total (64)
 
 ## Wheel of Fortune
 
@@ -92,6 +92,17 @@ Commuters
 
 ## Catchphrase
 
+1. The middle of nowhere
+2. Sticking out like a sore thumb
+3. Wishbone
+4. Pub grub
+5. I spy with my little eye
+6. Game face
+7. Prize plum
+8. Save your breath
+9. Holding all the aces
+10. Free spirit
+
 ## Pointless
 
 1. Any capital city of any country that is either
@@ -104,7 +115,7 @@ in its own right.
 ANDORRA LA VELLA 1  
 ANKARA 1  
 ATHENS 16  
-BAKU 0  
+BAKU 0 (Azerbaijan)  
 BELGRADE 4  
 BERLIN 62  
 BERN 11  
@@ -112,7 +123,7 @@ BRATISLAVA 4
 BRUSSELS 42  
 BUCHAREST 4  
 BUDAPEST 14  
-CHISINAU 0  
+CHISINAU 0 (Moldova)  
 COPENHAGEN 36  
 DUBLIN 42  
 HELSINKI 16  
@@ -128,7 +139,7 @@ MOSCOW 14
 NICOSIA 2  
 OSLO 39  
 PARIS 98  
-PODGORICA 0  
+PODGORICA 0 (Montenegro)  
 PRAGUE 27  
 REYKJAVIK 4  
 RIGA 8  
@@ -139,15 +150,15 @@ SKOPJE 1
 SOFIA 9  
 STOCKHOLM 30  
 TALLINN 7  
-TBILISI 0  
+TBILISI 0 (Georgia)  
 THE HAGUE 10  
-TIRANA 0  
+TIRANA 0 (Albania)  
 VADUZ 2  
 VALETTA 1  
 VIENNA 14  
 VILNIUS 2  
 WARSAW 16  
-YEREVAN 0  
+YEREVAN 0 (Armenia)  
 ZAGREB 3  
 
 2. Any word that has its own entry in the Oxford Dictionary of English that begins and ends with the letter 'B'. Abbreviations, proper nouns, trademarks, or hyphenated words will not be accepted.
@@ -162,7 +173,7 @@ BEGOB 0
 BENUMB 0  
 BIB 17  
 BIBB 0  
-BICARB   
+BICARB
 BLAB 13  
 BLEB 1  
 BLOB 20  
@@ -190,7 +201,7 @@ BURB 3
     - Eight
     - Nine
 
-1. Against which country did Tyrone Mings make his England debut in 2019? 
+1. Against which country did Tyrone Mings make his England debut in 2019?
     - Kosovo
     - Czech  Republic
     - **Bulgaria**
@@ -245,14 +256,14 @@ Name something that might be brewing.
 |5.|A Storm|5|
 |6.|Plot|3|
 
-> Source: https://www.buzzfeed.com/tessafahey/family-feud-typey
+> Source: <https://www.buzzfeed.com/tessafahey/family-feud-typey>
 
 ## Only Connect
 
 1. What links these 4 things?:
-    - JFK
-    - John Lennon
-    - Batman
+    - JFK  
+    - John Lennon  
+    - Batman  
     - Robin Hood  
     > They're all airports
 
@@ -262,7 +273,6 @@ Name something that might be brewing.
     - Eugene Shoemaker's ashes
     - Two golf balls  
    >  Items left on the moon
-
 
 ## Wipeoout
 
