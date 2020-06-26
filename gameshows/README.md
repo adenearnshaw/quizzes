@@ -4,16 +4,16 @@ Quiz for 26th June 2020
 
 ## Rounds
 
-- Wheel of Fortune (10)
-- Countdown (4)
-- Catchpharase (10)
-- Pointless? (2)
-- Question of Sport (4)
-- Mastermind (10)
-- Family Fortunes (1 (6))
-- Only Connect (2)
-- Wipeout (6)
-- Blockbusters (10)
+- [Wheel of Fortune (10)](wheel_of_fortune/)
+- [Countdown (4)](countdown/)
+- [Catchpharase (10)](catchphrase/)
+- [Pointless (2)](pointless/)
+- [Question of Sport (4)](question_of_sport/)
+- [Mastermind (10)](/)
+- [Family Fortunes (1 (6))](family_fortunes/)
+- [Only Connect (2)](only_connect/)
+- [Wipeout (6)](/)
+- [Blockbusters (10)](blockbusters/)
 
 Total (64)
 
@@ -48,20 +48,5 @@ Total (64)
 
 1. In terms of height, what is the world’s largest dog breed?
     - Great Dane
-
-## Family Fortunes
-
-Name something that might be brewing.
-
-|   |   |   |
-|---|---|---|
-|1.|Coffee|37|
-|2.|Beer|28|
-|3.|Tea|17|
-|4.|Trouble|8|
-|5.|A Storm|5|
-|6.|Plot|3|
-
-> Source: <https://www.buzzfeed.com/tessafahey/family-feud-typey>
 
 ## Wipeoout
