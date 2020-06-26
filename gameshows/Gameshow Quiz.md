@@ -92,6 +92,8 @@ Commuters
 
 ## Catchphrase
 
+[Video](https://youtu.be/R2tg0WyfreM) via YouTub
+
 1. The middle of nowhere
 2. Sticking out like a sore thumb
 3. Wishbone
