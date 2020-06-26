@@ -1,6 +1,6 @@
 # Catchphrase
 
-[Video](https://youtu.be/R2tg0WyfreM) via YouTub
+[Video](https://youtu.be/R2tg0WyfreM) via YouTube
 
 1. The middle of nowhere
 2. Sticking out like a sore thumb
