@@ -6,6 +6,7 @@ Quiz for 26th June 2020
 
 - [Wheel of Fortune (10)](wheel_of_fortune/)
 - [Countdown (4)](countdown/)
+- [Ready Steady Cook (10)](ready_steady_cook/)
 - [Catchpharase (10)](catchphrase/)
 - [Pointless (2)](pointless/)
 - [Question of Sport (4)](question_of_sport/)
@@ -15,4 +16,4 @@ Quiz for 26th June 2020
 - [Movie Posters (12)](movie_posters/)
 - [Blockbusters (10)](blockbusters/)
 
-Total (70)
+Total (80)
